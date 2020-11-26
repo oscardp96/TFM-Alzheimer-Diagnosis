@@ -1,5 +1,5 @@
 # Alzheimer Diagnosis with Deep Learning
-## MASTER'S DEGREE FINAL PROJECT
+## MASTER DEGREE'S FINAL PROJECT
 
 This repository contains all code snippets and reports for a master's degree thesis focused on automatic Alzheimer diagnosis using Deep Learning and MRI images. The files and folder structure are organized in the following way:
 
